@@ -2,7 +2,7 @@
 
 Greetings All! Here is our documentation of our progress on the Capstone Project. Let's take a look ...
 
-
+![Display](https://raw.githubusercontent.com/MIHU-PROJECT/.github/refs/heads/main/img/MIHU-Display.png)
 
 ## Our Soldiers
 
@@ -33,6 +33,8 @@ MIHU is an app to provide or give assistance to people who need help with low-sk
 
 ## Preview
 
-
+<img src="https://raw.githubusercontent.com/MIHU-PROJECT/.github/refs/heads/main/img/SplashScreen.png" alt="SplashScreen" width="250" height="550">&nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/MIHU-PROJECT/.github/refs/heads/main/img/Homepage.png" alt="Homepage" width="250" height="550">&nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/MIHU-PROJECT/.github/refs/heads/main/img/Order-detail.png" alt="Order" width="250" height="550">&nbsp; &nbsp;
 
 <p><strong>Warm regards, <br> (CH2-PS038) Teams </strong></p>
