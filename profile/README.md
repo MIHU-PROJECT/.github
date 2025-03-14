@@ -35,4 +35,4 @@ MIHU is an app to provide or give assistance to people who need help with low-sk
 
 
 
-<center><strong>Warm regards, <br> (CH2-PS038) Teams </strong></center>
+<p><strong>Warm regards, <br> (CH2-PS038) Teams </strong></p>
